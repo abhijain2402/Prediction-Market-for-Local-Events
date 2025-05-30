@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A decentralized prediction market smart contract that enables users to create and participate in betting markets for local events. Users can create markets for any local event (sports games, weather predictions, election outcomes, etc.), place bets on the outcomes, and earn rewards based on correct predictions. The platform operates entirely on-chain, ensuring transparency and trustless execution.
+A decentralized prediction market smart contract that enables users to create and participate in betting markets for local events. Users can create markets for any local event (sports games, weather predictions, election outcomes, etc.), place bets on the outcomes, and earn rewards based on correct predictions. The platform operates entirely on-chain, ensuring transparency and trustless execution...
 
 ## Project Vision
 
